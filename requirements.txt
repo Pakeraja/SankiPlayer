@@ -14,3 +14,4 @@ ffmpeg-python
 ffmpeg
 Pillow
 ujson
+Pyrogram==1.4.12
